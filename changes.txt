@@ -1,9 +1,8 @@
-1. "Das ist neu"- Dialog eingeführt (Funktioniert nur bei Internetverbindung)
-2. App mit Android 8 - Oreo (Api 26) kompatibel
-3. Einstellungen zum Scannen von dateien hinzugefügt
-4. Automatisches Update-System über Server eingeführt (Die App meldet, wenn ein Update verfügbar ist, Lädt die Datei herunter und installiert sie)
-5. Gaaaanz viele Bugfixes
-6. Der Download-Fortschritt wird jetzt besser angezeigt
-7. Deine heruntergeladenen Videos und Bilder werden jetzt aufgelistet (neuer Button unten Rechts)
-8. Du kannst jetzt deine heruntergeladenen Videos und Bilder direkt von der App aus Abspielen bzw. Angucken
-9. Die Such-Funktion wurde verbessert
+1. Die Fortschrittsanzeige im Benachrichtigungsfeld spinnt jetzt nicht mehr
+2. Wieder einige kleine Fehlerbehebungen (Und dieses Mal sollten auch keine Fehler wieder hinzugekommen sein ;)  )
+3. Die Fortschrittsanzeige im Benachrichtigungsfeld ist dort jetzt bis zum Abschluss des jeweiligen Downloads fest verankert
+4. Geh mal Bier holn! Du bist schon wieder HÄSSLICH!!!
+5. Spaß.
+6. Es werden jetzt nach dem Scannen keine Dash-Dateien mehr angezeigt, wenn du dies in den Einstellungen ausgeschaltet hast
+7. Genau so verhält es sich mit der Einstellung, dass die Dateigröße neben dem Video angezeigt wird.
+8. Viel Spaß ihr Honigmelonen
