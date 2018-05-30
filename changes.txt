@@ -1,6 +1,5 @@
-1. Fehlerbehebungen
-2. Du kannst jetzt auch den System-Downloadmanager statt meinem Verwenden (In den Einstellungen)
-3. Du kannst jetzt in den Einstellungen über den Info-Button deine Version und die letzten Änderungen in der App sehen
-4. Du kannst jetzt automatisch nach Updates suchen
-5. Für die, die es noch nicht gewusst haben: Du kannst im Texteingabefeld nicht nur einen kompletten Link, sondern auch Suchbegriffe eingeben!
-6. Have Fun ma boyzz!!!
+1. Option zum Speichern der Videos auf externer SD-Karte hinzugefügt (nur für Api >= Kitkat)
+2. Leistungsverbesserungen
+3. Neues Icon
+4. Wenn ein Fehler während eines Downloads oder anderen Fehleranfälligen Aktionen passiert, werden automatisch statistische Daten mit der Fehlermeldung zur Verbesserung der App an den Server gesendet
+5. Danke Fürs Downloaden
