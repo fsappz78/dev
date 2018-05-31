@@ -1,5 +1,3 @@
-1. Option zum Speichern der Videos auf externer SD-Karte hinzugefügt (nur für Api >= Kitkat)
-2. Leistungsverbesserungen
-3. Neues Icon
-4. Wenn ein Fehler während eines Downloads oder anderen Fehleranfälligen Aktionen passiert, werden automatisch statistische Daten mit der Fehlermeldung zur Verbesserung der App an den Server gesendet
-5. Danke Fürs Downloaden
+1. Fehlerverbesserungen
+2. Die Option zum Anzeigen der Videogröße ist nun ausgereift und fehlerfrei nutzbar
+3. Viel Spaß
