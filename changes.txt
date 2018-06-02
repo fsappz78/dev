@@ -1,3 +1,4 @@
-1. Fehlerverbesserungen
-2. Die Option zum Anzeigen der Videogröße ist nun ausgereift und fehlerfrei nutzbar
-3. Viel Spaß
+1. Erweiterter Support für Android 8 Oreo (Api): Videos werden jetzt nicht mehr standardmäßig vom System-Downloader heruntergeladen
+2. Mehrere Fehler für Android 8 behoben
+3. Schnellerer App-Start
+4. Crashfixes
