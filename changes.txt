@@ -1,4 +1,1 @@
-1. Erweiterter Support für Android 8 Oreo (Api): Videos werden jetzt nicht mehr standardmäßig vom System-Downloader heruntergeladen
-2. Mehrere Fehler für Android 8 behoben
-3. Schnellerer App-Start
-4. Crashfixes
+Fehlerbehebungen in Großen Maße
