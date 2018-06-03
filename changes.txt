@@ -1,1 +1,2 @@
-Fehlerbehebungen in Großen Maße
+1. Fehlerbehebungen
+2. Dateigröße optimiert, jetzt nur noch 2 MB statt vorher 19 MB
