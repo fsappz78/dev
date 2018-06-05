@@ -1,2 +1,1 @@
-1. Fehlerbehebungen
-2. Dateigröße optimiert, jetzt nur noch 2 MB statt vorher 19 MB
+1. Fehlerbehebungen: Es können jetzt auch Dateien, die ein "?" und andere Sonderzeichen enthalten, runtergeladen werden
