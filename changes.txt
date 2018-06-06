@@ -1,3 +1,4 @@
 1. Wenn dein Video fertig heruntergeladen ist, kannst du jetzt auf die Benachrichtigung tippen, um direkt den Videoplayer zu starten
-2. Unterstützt weitere Sonderzeichen
-3. Bugfixes bei Texten
+2. Fehlerbehebungen
+3. Neue Funktion in Entwicklung
+4. Demnächst wird das Design und die Handhabung verbessert
