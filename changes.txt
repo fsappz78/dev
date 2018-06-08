@@ -1,5 +1,7 @@
 1. Die neue Funktion ist jetzt (als Beta, kann zu Abstürzen führen) verfügbar: Wenn du nach Videos suchst, kannst du lange auf ein Video tippen um es herunterzuladen (es öffnet sich ein Contextmenü) und musst nicht mehr auf "Download tippen", was die Handhabung erheblich verbessert!
->>>> Es ist eine BETA! Also beschwert euch nicht, wenn es noch nicht funktioniert, es kommen dann weitere Patches für Behebungen...
-2. Fehlerbehebungen
+>>>> Es ist eine BETA! Also beschwert euch nicht, wenn es noch nicht funktioniert, es kommen dann weitere Patches...
+
+2. Es können jetzt keine Thumbnails mehr heruntergeladen werden, weil eh keiner die Funktion genutzt hat, wieso sollte ich sie dann auch weiter entwickeln? :D
+3. Fehlerbehebungen
 
 
