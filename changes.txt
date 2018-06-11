@@ -1,3 +1,4 @@
-1. Die im letzten Update eingeführte Neue Funktion zum schnelleren Downloaden ist jetzt ausgereift!
-2. Fehler in den Einstellungen behoben
-3. Die YouTube-Suche lädt jetzt nicht mehr neu, wenn du die App minimierst oder der Bildschirm gedreht wird
+1. Wenn ein Download abgeschlossen ist, wird jetzt in der Benachrichtigung ein Haken angezeigt
+2. Wenn ein Download abgeschlossen ist, kannst du jetzt in der Benachrichtigung deine Durchschnittliche Download-Geschwindigkeit (in Kbit/s) sehen
+3. Wenn ein Download fehlschlägt, tippe auf die Benachrichtigung um mir eine E-Mail  mit Details zu schicken (Das würde mir seeeehr helfen, also macht es bitte immer!!!)
+4. Alle hier aufgeführten Neuerungen gelten nur, wenn in Einstellungen > System-Downloader verwenden > Ausgeschaltet ist!
