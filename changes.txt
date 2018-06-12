@@ -1,5 +1,3 @@
-1. Wenn ein Download abgeschlossen ist, wird jetzt in der Benachrichtigung ein Haken angezeigt
-2. Wenn ein Download abgeschlossen ist, kannst du jetzt in der Benachrichtigung deine Durchschnittliche Download-Geschwindigkeit (in Kbit/s) sehen
-3. Wenn ein Download fehlschlägt, tippe auf die Benachrichtigung um mir eine E-Mail  mit Details zu schicken (Das würde mir seeeehr helfen, also macht es bitte immer!!!)
-4. Alle hier aufgeführten Neuerungen gelten nur, wenn in Einstellungen > System-Downloader verwenden > Ausgeschaltet ist!
-5. Fehler in den Einstellungen für Api >= 26 (Android 8 Oreo und höher) behoben
+1. Fehlerbehebungen für Samsung-Geräte mit Android 8: Die Videos lassen sich jetzt über die App-Bibliothek abspielen
+2. Statt System-Videoplayer wird jetzt mein Player verwendet zu Abspielen von Videos
+3. Andere Fehlerbehebungen
