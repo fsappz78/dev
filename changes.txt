@@ -1,3 +1,10 @@
-1. Fehlerbehebungen für Samsung-Geräte mit Android 8: Die Videos lassen sich jetzt über die App-Bibliothek abspielen
-2. Statt System-Videoplayer wird jetzt mein Player verwendet zu Abspielen von Videos
-3. Andere Fehlerbehebungen
+--------------------------
+BITTE LEST EUCH DIESE MELDUNGEN GUT DURCH!!!!!!!!!!!!!!!!!!!
+-------------------------------------------------------
+1. Nach 15 Stunden Arbeit ist dieses Update nun fertig!
+2. Die Quick-Download-Funktion wurde verbessert
+3. Der Bug auf Matthias Handy ist jetzt behoben
+4. Die Funktionen "Dash-Dateien " und "Webm-Dateien" wurden entfernt, Wenn du eine Tonlose (Dash) Datei herunterlädst, wird das Audio jetzt automatisch hinzugefügt (Mediamuxing), FUNKTIONIERT NUR FÜR ANDROID 7 (NOUGAT) & HÖHER!
+5. Die Videos werden jetzt in richtiger Reihenfolge (nach Auflösung) aufgelistet
+6. Vieles mehr
+  
