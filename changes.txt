@@ -1,9 +1,8 @@
---------------------
-BITTE LEST EUCH DIESE MELDUNGEN GUT DURCH!!!!!!!!!!!!!!!!!!!
--------------------
-1. Nach 15 Stunden Arbeit ist dieses Update nun fertig!
-2. Die Quick-Download-Funktion wurde verbessert
-3. Der Bug auf Matthias Handy ist jetzt behoben
-4. Die Funktionen "Dash-Dateien " und "Webm-Dateien" wurden entfernt, Wenn du eine Tonlose (Dash) Datei herunterlädst, wird das Audio jetzt automatisch hinzugefügt (Mediamuxing), FUNKTIONIERT NUR FÜR ANDROID 7 (NOUGAT) & HÖHER!
-5. Die Videos werden jetzt in richtiger Reihenfolge (nach Auflösung) aufgelistet
-6. Vieles mehr
+1. Fehlerverbesserungen: Die App ist beim Scannen teilweise abgestürzt
+2. Die App-Größe wurde von 2,01 auf 1,76 MB optimiert
+3. Eleganteres Design
+4. Funktion zum An- und Abmelden für YouTube hinzugefügt (In den Einstellungen)
+5. Du kannst jetzt deinen Verlauf, Cookies und Cache aus der Websuche löschen (Ebenfalls in den Einstellungen)
+6. VOLLBILD-Support für den Videoplayer in der Video-Suche hinzugefügt!!!
+7. Wenn der Scan-Vorgang fehlgeschlagen ist, kannst du jetzt auf einen Button zum erneuten Scannen tippen
+
