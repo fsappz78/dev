@@ -1,8 +1,1 @@
---- 1.Fehlerverbesserungen zu den im letzten Update eingeführten Funktionen: 
-
-2. Die App-Größe wurde von 2,01 auf 1,76 MB optimiert
-3. Eleganteres Design
-4. Funktion zum An- und Abmelden für YouTube hinzugefügt (In den Einstellungen)
-5. Du kannst jetzt deinen Verlauf, Cookies und Cache aus der Websuche löschen (Ebenfalls in den Einstellungen)
-6. VOLLBILD-Support für den Videoplayer in der Video-Suche hinzugefügt!!!
-7. Wenn der Scan-Vorgang fehlgeschlagen ist, kannst du jetzt auf einen Button zum erneuten Scannen tippen 
+- Fehlerverbesserungen bei den Benachrichtigungen und Videoplayer
