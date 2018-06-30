@@ -1,1 +1,2 @@
-- Es wird jetzt bei heruntergeladenen Dateien wieder die Auflösung im Dateinamen angezeigt
+- Allgemeine Fehlerverbesserungen
+- Funktion zum Playlist-Download in Entwicklung!
