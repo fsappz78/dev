@@ -1,2 +1,2 @@
--Fehlerverbesserungen
--Es war nicht möglich, in der Online-Suche weitere Videos zu laden, da diese durch meine 2 Buttons verdeckt wurden. Dies wurde behoben! Drücke jetzt einfach, wenn du weitere Videos laden möchtest, auf den blauen Pfeil unten rechts
+-Falls die Internetverbindung während eines Downloads unterbrochen wird, wird der Download pausiert und automatisch bei erneuter Verbindungsherstellung fortgesetzt
+-Allgemeine Verbesserungen
