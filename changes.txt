@@ -1,3 +1,3 @@
--Jede Menge Fehlerbehebungen
+-Die Benachrichtigungen beim Download wurden nicht angezeigt...
 -Die Anzahl der Aufrufe und die Länge eines Videos werden jetzt wieder angezeigt und formatiert
 -Neue Funktion in den Einstellungen zum Löschen aller Benachrichtigungen, falls sich ein Download aufhängt
