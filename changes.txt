@@ -1,6 +1,0 @@
--Zum neuen Schuljahr ein neues Update! :))
-1. Neues Theme!
-2. Die Appstart-Zeit wurde erheblich reduziert
-3. Beim Updaten werden jetzt die Anmerkungen zur neuen Version angezeigt
-4. Bug fixes; insbesondere für Playlist-Downloads
-5. Fehlerberichte werden jetzt automatisch und blitzschnell an den Webserver gesendet, du erkennst dies an einem kurz auftauchenden Upload-Pfeil im Benachrichtigungs-Panel :))
